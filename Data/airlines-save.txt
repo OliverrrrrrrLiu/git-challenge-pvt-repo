@@ -18,5 +18,3 @@ Sample entries
 324,"All Nippon Airways","ANA All Nippon Airways","NH","ANA","ALL NIPPON","Japan","Y"
 412,"Aerolineas Argentinas",\N,"AR","ARG","ARGENTINA","Argentina","Y"
 413,"Arrowhead Airways",\N,"","ARH","ARROWHEAD","United States","N"
-
-Inserted change here.
